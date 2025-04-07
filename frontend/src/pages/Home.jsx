@@ -49,6 +49,7 @@ const Home = () => {
               comfort and trendsetting designs that take your footwear game to
               the next level. Elevate your wardrobe with the perfect blend of
               fashion and functionality, designed for the modern lifestyle.
+              Jordan 
             </p>
 
             <Link
